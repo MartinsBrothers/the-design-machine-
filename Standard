@@ -1,0 +1,109 @@
+Stragies : 
+hedge scalp
+scalping snipe
+mirror trades
+trend scalping direction
+breakout momentum
+virtual closing
+cumulative ticket 
+virtual drawdown maintain
+virtual cumulative clear ratio 0,2 - 0,8
+ticket duration
+
+Indication : 
+cci
+stochastic 
+rsi
+ichimoku
+bolinger band
+atr
+adx
+api Refrence
+envelope
+support resistance breakout/supply and demand/price action
+
+MM : 
+taget and drawdown accumulative automation.
+cumulative closing ticket surpluss percentage 
+prepare news 120/80 before.
+pause treshold 120/80/1440
+ticket closed for 1,3%,
+recovery treshold 1,8%
+multi timeframe depend on 
+delay limit order cycle signal
+limit order
+snipe order virtual
+signal refrence 10-20, 50, 80-90
+
+Brokerages levels : 
+Stop hunt level
+bot killer
+slippage control
+broker limit return
+leverage 1:50
+monly settlement
+
+Bug :
+Off quotes
+Error buy modify ticket
+Err Open Buy Order 136
+market execution speed
+virtual limit order for the same price
+
+UI :
+
+Index volume statistic
+Multitimeframe switching 
+Indicators confirmations
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+hedge scalp
+scalping snipe
+mirror trades
+trend scalping direction
+breakout momentum
+virtual closing
+cumulative ticket 
+virtual drawdown maintain
+virtual cumulative clear ratio 0,2 - 0,8
+ticket duration
+recovery system
+sharpe ratio
+cci
+stochastic 
+rsi
+bolinger band
+atr
+adx
+api Refrence
+support resistance breakout/supply and demand/price action
+taget and drawdown accumulative automation.
+cci
+stochastic 
+rsi
+bolinger band
+atr
+adx
+api Refrence
+support resistance breakout/supply and demand/price action
+cumulative closing ticket surpluss percentage 
+prepare news 120/80 before.
+pause treshold 120/80/1440
+ticket closed for 1,3%,
+recovery treshold 1,8%
+multi timeframe depend on 
+delay limit order cycle signal
+limit order
+snipe order virtual
+signal refrence 10-20, 50, 80-90
+virtual limit order for the same price
+slippage controls
+orders speed
+magic compounding level
+
+
+
+
